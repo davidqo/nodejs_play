@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My first experience of Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidqo/nodejs_play.git"
+  },
+  "author": "Davidqo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidqo/nodejs_play/issues"
+  },
+  "homepage": "https://github.com/davidqo/nodejs_play#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "pug": "^2.0.0-rc.4"
+  }
+}
